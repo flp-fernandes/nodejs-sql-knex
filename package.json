@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-sql-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyfelipao/nodejs-sql-knex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyfelipao/nodejs-sql-knex/issues"
+  },
+  "homepage": "https://github.com/heyfelipao/nodejs-sql-knex#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.5",
+    "nodemon": "^2.0.4",
+    "pg": "^8.3.3"
+  }
+}
