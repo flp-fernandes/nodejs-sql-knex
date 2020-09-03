@@ -1,6 +1,7 @@
 # nodejs-sql-knex
 
 - install docker
+    https://docs.docker.com/engine/install/ubuntu/#installation-methods
 - download Postgres image
     sudo docker pull postgres
 - create container:
